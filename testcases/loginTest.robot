@@ -3,6 +3,7 @@ Documentation    Suite description
 Library  SeleniumLibrary
 Resource  ../resources/tinder_resource.robot
 
+
 Suite Setup  Start test
 Suite Teardown  End test
 
